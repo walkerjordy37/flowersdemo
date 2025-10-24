@@ -201,7 +201,7 @@ const FlowerRecognitionML = () => {
         </div>
 
         {/* Contenu */}
-        <div className="bg-white/10 backdrop-blur-lg rounded-2xl p-6 md:p-8 shadow-2xl">
+        <div className="bg-white/10 backdrop-blur-lg rounded-lg p-6 md:p-8 shadow-2xl">
           
           {/* TAB DEMO */}
           {activeTab === 'demo' && (
